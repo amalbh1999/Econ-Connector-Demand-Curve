@@ -1,2 +1,2 @@
 # Econ-Connector-Demand-Curve
-As a Course Assistant, I created the homework for students of Data 88 Economic Models to complete. It focuses on finding demand curve and market equilibrium using data cleaning and data visualization techniques.
+Data 88 is Berkeley's first and only course that studies the intersection between data science and economics using real-world data and Python. I created the material for Week 3's lab and homework. Students learned how to find the demand curve and market equilibrium using airline data using data cleaning and data visualization techniques. The link to the course can be found at https://d8a-88.github.io/econ-fa19/
