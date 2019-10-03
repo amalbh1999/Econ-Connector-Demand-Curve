@@ -4,3 +4,5 @@ Data 88 is Berkeley's first and only course that studies the intersection betwee
 Demand Curve and Market Equilibrium: I created the lab and homework for Demand Curve and Market Equilibrium. Students learned how to find the demand curve and market equilibrium using Airline data using data cleaning and data visualization techniques. 
 
 Measures of Inequality, Tax Rates: Coming Soon
+
+Python Libraries used: NumPy, Pandas, SymPy, matplotlib, datascience
